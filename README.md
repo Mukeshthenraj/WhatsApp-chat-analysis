@@ -32,7 +32,7 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 ## 🚀 How to Run
 
 ### 1. Install dependencies
-```bash
+```
 
 pip install matplotlib seaborn
 
