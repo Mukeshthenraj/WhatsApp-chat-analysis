@@ -44,7 +44,7 @@ python scripts/hourly_activity_heatmap.py
 📸 Sample Visuals
 ![Message Distribution](images/message_distribution.png)
 ![Hourly Heatmap](images/hourly_activity_heatmap.png)
-
+---
 👨‍💻 Author
 Mukesh Thenraj
 
