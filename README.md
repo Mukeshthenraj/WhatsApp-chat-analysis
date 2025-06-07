@@ -34,7 +34,7 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 pip install matplotlib seaborn
 ```
 
-Run the scripts
+### 2. Run the scripts
 ```
 python scripts/message_distribution.py
 python scripts/hourly_activity_heatmap.py
@@ -52,4 +52,3 @@ Mukesh Thenraj
 
 📄 License
 This project is open for educational and non-commercial use.
----
