@@ -1,4 +1,3 @@
-# WhatsApp-chat-analysis
 # WhatsApp Chat Analysis  📱🧠
 
 This project analyzes WhatsApp group chat data from 2021–2025 for a private group.  
@@ -25,6 +24,8 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 - 💬 **Top used words** per person
 - 🧠 **Psychological and character profiling** based on chat tone and behavior
 - 📈 Beautiful plots using `matplotlib` and `seaborn`
+
+---
 
 ## 🚀 How to Run
 
