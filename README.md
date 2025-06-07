@@ -5,8 +5,6 @@ This project analyzes WhatsApp group chat data from 2021–2025 for a private gr
 It includes visualizations, time-based trends, and behavioral summaries for each participant.
 
 ## 📁 Project Structure
-
-```
 .
 ├── data/
 │   └── WhatsApp Chat with BCC.txt
@@ -17,8 +15,6 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 │   ├── message_distribution.py
 │   └── hourly_activity_heatmap.py
 └── README.md
-```
-
 
 ## 📊 Features
 
@@ -28,7 +24,6 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 - 🧠 **Psychological and character profiling** based on chat tone and behavior
 - 📈 Beautiful plots using `matplotlib` and `seaborn`
 
-```markdown
 ## 🚀 How to Run
 
 ### 1. Install dependencies
@@ -37,8 +32,6 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 pip install matplotlib seaborn
 
 Run the scripts
-
-bash
 
 python scripts/message_distribution.py
 python scripts/hourly_activity_heatmap.py
@@ -50,10 +43,9 @@ python scripts/hourly_activity_heatmap.py
 **Hourly Activity Heatmap**  
 <img src="images/hourly_activity_heatmap.png" alt="Hourly Heatmap" width="600"/>
 
----
-
 👨‍💻 Author
 Mukesh Thenraj
 
 📄 License
 This project is open for educational and non-commercial use.
+---
