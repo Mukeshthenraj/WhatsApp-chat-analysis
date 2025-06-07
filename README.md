@@ -28,7 +28,7 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 - 🧠 **Psychological and character profiling** based on chat tone and behavior
 - 📈 Beautiful plots using `matplotlib` and `seaborn`
 
----
+```markdown
 ## 🚀 How to Run
 
 ### 1. Install dependencies
