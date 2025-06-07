@@ -4,12 +4,16 @@
 This project analyzes WhatsApp group chat data from 2021–2025 for a private group.  
 It includes visualizations, time-based trends, and behavioral summaries for each participant.
 
----
+├── data/
+│   └── WhatsApp Chat with BCC.txt
+├── images/
+│   ├── message_distribution.png
+│   └── hourly_heatmap.png
+├── scripts/
+│   ├── message_distribution.py
+│   └── hourly_activity_heatmap.py
+└── README.md
 
-<pre><code>## 📁 Project Structure ``` . ├── data/ │ └── WhatsApp Chat with BCC.txt ├── images/ │ ├── message_distribution.png │ └── hourly_heatmap.png ├── scripts/ │ ├── message_distribution.py │ └── hourly_activity_heatmap.py └── README.md ``` </code></pre>
-
-
----
 
 ## 📊 Features
 
