@@ -16,6 +16,8 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 │   ├── message_distribution.py
 │   └── hourly_activity_heatmap.py
 └── README.md
+├── LICENSE
+└── requirements.txt
 ```
 
 ## 📊 Features
