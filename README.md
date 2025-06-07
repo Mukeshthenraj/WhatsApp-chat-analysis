@@ -4,10 +4,11 @@ This project analyzes WhatsApp group chat data from 2021–2025 for a private gr
 It includes visualizations, time-based trends, and behavioral summaries for each participant.
 
 ## 📁 Project Structure
+
 ```
 .
 ├── data/
-│   └── WhatsApp Chat with BCC.txt
+│   └── WhatsApp Chat.txt
 ├── images/
 │   ├── message_distribution.png
 │   └── hourly_activity_heatmap.png
@@ -49,6 +50,7 @@ python scripts/hourly_activity_heatmap.py
 
 **Hourly Activity Heatmap**  
 <img src="images/hourly_activity_heatmap.png" alt="Hourly Heatmap" width="600"/>
+
 ---
 
 👨‍💻 Author
