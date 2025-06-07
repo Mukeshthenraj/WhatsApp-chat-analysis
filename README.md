@@ -40,13 +40,11 @@ python scripts/message_distribution.py
 python scripts/hourly_activity_heatmap.py
 ```
 📸 Sample Visuals
-```
 **Message Distribution**  
 <img src="images/message_distribution.png" alt="Message Distribution" width="600"/>
 
 **Hourly Activity Heatmap**  
 <img src="images/hourly_activity_heatmap.png" alt="Hourly Heatmap" width="600"/>
-```
 👨‍💻 Author
 Mukesh Thenraj
 
