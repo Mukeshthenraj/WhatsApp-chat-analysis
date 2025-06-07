@@ -42,9 +42,8 @@ python scripts/message_distribution.py
 python scripts/hourly_activity_heatmap.py
 
 📸 Sample Visuals
-Message Types by Sender
-
-Hourly Activity Heatmap
+![Message Distribution](images/message_distribution.png)
+![Hourly Heatmap](images/hourly_activity_heatmap.png)
 
 👨‍💻 Author
 Mukesh Thenraj
