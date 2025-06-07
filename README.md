@@ -29,10 +29,10 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 - 📈 Beautiful plots using `matplotlib` and `seaborn`
 
 ---
-```markdown
 ## 🚀 How to Run
 
 ### 1. Install dependencies
+```bash
 
 pip install matplotlib seaborn
 
@@ -40,7 +40,6 @@ Run the scripts
 
 python scripts/message_distribution.py
 python scripts/hourly_activity_heatmap.py
-```bash
 
 📸 Sample Visuals
 ![Message Distribution](images/message_distribution.png)
