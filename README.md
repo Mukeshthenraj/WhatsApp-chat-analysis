@@ -1,5 +1,9 @@
 # WhatsApp Chat Analysis  📱🧠
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 This project analyzes WhatsApp group chat data from 2021–2025 for a private group.  
 It includes visualizations, time-based trends, and behavioral summaries for each participant.
 
