@@ -12,7 +12,7 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 │   └── WhatsApp Chat with BCC.txt
 ├── images/
 │   ├── message_distribution.png
-│   └── hourly_heatmap.png
+│   └── hourly_activity_heatmap.png
 ├── scripts/
 │   ├── message_distribution.py
 │   └── hourly_activity_heatmap.py
@@ -32,11 +32,13 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 ## 🚀 How to Run
 
 ### 1. Install dependencies
-```
 
+```bash
 pip install matplotlib seaborn
 
 Run the scripts
+
+bash
 
 python scripts/message_distribution.py
 python scripts/hourly_activity_heatmap.py
@@ -47,7 +49,9 @@ python scripts/hourly_activity_heatmap.py
 
 **Hourly Activity Heatmap**  
 <img src="images/hourly_activity_heatmap.png" alt="Hourly Heatmap" width="600"/>
+
 ---
+
 👨‍💻 Author
 Mukesh Thenraj
 
