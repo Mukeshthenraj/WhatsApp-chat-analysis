@@ -5,6 +5,7 @@ This project analyzes WhatsApp group chat data from 2021–2025 for a private gr
 It includes visualizations, time-based trends, and behavioral summaries for each participant.
 
 ## 📁 Project Structure
+```bash
 .
 ├── data/
 │   └── WhatsApp Chat with BCC.txt
