@@ -6,18 +6,7 @@ It includes visualizations, time-based trends, and behavioral summaries for each
 
 ---
 
-## 📁 Project Structure
-
-.
-├── data/
-│ └── WhatsApp Chat with BCC.txt
-├── images/
-│ ├── message_distribution.png
-│ └── hourly_heatmap.png
-├── scripts/
-│ ├── message_distribution.py
-│ └── hourly_activity_heatmap.py
-└── README.md
+<pre><code>## 📁 Project Structure ``` . ├── data/ │ └── WhatsApp Chat with BCC.txt ├── images/ │ ├── message_distribution.png │ └── hourly_heatmap.png ├── scripts/ │ ├── message_distribution.py │ └── hourly_activity_heatmap.py └── README.md ``` </code></pre>
 
 
 ---
